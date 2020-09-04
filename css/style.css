@@ -536,8 +536,8 @@ font-family: "Montserrat", Georgia, serif;}
 
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0; }
-
-<!-----projectcss------------>
+  
+/*Projects*/
 #projects {
   padding: 50px 15px;
   border-bottom: 1px solid #dcd9d9;
